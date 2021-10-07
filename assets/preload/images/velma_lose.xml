@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="velma_lose.png">
+	<!-- Created with Adobe Animate version 21.0.8.42666 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="velma lose loop0000" x="2845" y="2480" width="569" height="605"/>
+	<SubTexture name="velma lose loop0001" x="3414" y="2480" width="569" height="605"/>
+	<SubTexture name="velma lose loop0002" x="3414" y="2480" width="569" height="605"/>
+	<SubTexture name="velma lose loop0003" x="1707" y="2498" width="569" height="605"/>
+	<SubTexture name="velma lose loop0004" x="1707" y="2498" width="569" height="605"/>
+	<SubTexture name="velma lose loop0005" x="2276" y="2498" width="569" height="605"/>
+	<SubTexture name="velma lose loop0006" x="2276" y="2498" width="569" height="605"/>
+	<SubTexture name="velma lose loop0007" x="0" y="2511" width="569" height="605"/>
+	<SubTexture name="velma lose loop0008" x="1138" y="2517" width="569" height="605"/>
+	<SubTexture name="velma lose loop0009" x="0" y="2511" width="569" height="605"/>
+	<SubTexture name="velma lose loop0010" x="0" y="2511" width="569" height="605"/>
+	<SubTexture name="velma lose loop0011" x="0" y="2511" width="569" height="605"/>
+	<SubTexture name="velma lose loop0012" x="0" y="2511" width="569" height="605"/>
+	<SubTexture name="velma lose loop0013" x="0" y="2511" width="569" height="605"/>
+	<SubTexture name="velma lose loop0014" x="0" y="2511" width="569" height="605"/>
+	<SubTexture name="velma lose loop0015" x="0" y="2511" width="569" height="605"/>
+	<SubTexture name="velma lose loop0016" x="0" y="2511" width="569" height="605"/>
+	<SubTexture name="velma lose loop0017" x="569" y="2518" width="569" height="605"/>
+	<SubTexture name="velma lose loop0018" x="2845" y="3085" width="569" height="605"/>
+	<SubTexture name="velma lose loop0019" x="2845" y="3085" width="569" height="605"/>
+	<SubTexture name="velma lose loop0020" x="3414" y="3085" width="569" height="605"/>
+	<SubTexture name="velma lose loop0021" x="3414" y="3085" width="569" height="605"/>
+	<SubTexture name="velma lose loop0022" x="1707" y="3103" width="569" height="605"/>
+	<SubTexture name="velma lose loop0023" x="1707" y="3103" width="569" height="605"/>
+	<SubTexture name="velma lose loop0024" x="2276" y="3103" width="569" height="605"/>
+	<SubTexture name="velma lose loop0025" x="0" y="3116" width="569" height="605"/>
+	<SubTexture name="velma lose loop0026" x="0" y="3116" width="569" height="605"/>
+	<SubTexture name="velma lose loop0027" x="0" y="3116" width="569" height="605"/>
+	<SubTexture name="velma lose loop0028" x="0" y="3116" width="569" height="605"/>
+	<SubTexture name="velma lose loop0029" x="0" y="3116" width="569" height="605"/>
+	<SubTexture name="velma lose loop0030" x="1138" y="3122" width="569" height="605"/>
+	<SubTexture name="velma lose loop0031" x="0" y="3116" width="569" height="605"/>
+	<SubTexture name="velma lose loop0032" x="0" y="3116" width="569" height="605"/>
+	<SubTexture name="velma lose loop0033" x="0" y="3116" width="569" height="605"/>
+	<SubTexture name="velma lose retry0000" x="569" y="3123" width="569" height="605" frameX="0" frameY="-69" frameWidth="586" frameHeight="674"/>
+	<SubTexture name="velma lose retry0001" x="3458" y="0" width="569" height="644" frameX="0" frameY="-30" frameWidth="586" frameHeight="674"/>
+	<SubTexture name="velma lose retry0002" x="0" y="0" width="569" height="674" frameX="0" frameY="0" frameWidth="586" frameHeight="674"/>
+	<SubTexture name="velma lose retry0003" x="569" y="644" width="569" height="644" frameX="0" frameY="-30" frameWidth="586" frameHeight="674"/>
+	<SubTexture name="velma lose retry0004" x="1138" y="644" width="569" height="644" frameX="0" frameY="-30" frameWidth="586" frameHeight="674"/>
+	<SubTexture name="velma lose retry0005" x="1138" y="644" width="569" height="644" frameX="0" frameY="-30" frameWidth="586" frameHeight="674"/>
+	<SubTexture name="velma lose retry0006" x="1138" y="644" width="569" height="644" frameX="0" frameY="-30" frameWidth="586" frameHeight="674"/>
+	<SubTexture name="velma lose retry0007" x="1707" y="644" width="569" height="644" frameX="0" frameY="-30" frameWidth="586" frameHeight="674"/>
+	<SubTexture name="velma lose retry0008" x="1707" y="644" width="569" height="644" frameX="0" frameY="-30" frameWidth="586" frameHeight="674"/>
+	<SubTexture name="velma lose retry0009" x="1707" y="644" width="569" height="644" frameX="0" frameY="-30" frameWidth="586" frameHeight="674"/>
+	<SubTexture name="velma lose retry0010" x="2276" y="644" width="569" height="644" frameX="0" frameY="-30" frameWidth="586" frameHeight="674"/>
+	<SubTexture name="velma lose retry0011" x="2276" y="644" width="569" height="644" frameX="0" frameY="-30" frameWidth="586" frameHeight="674"/>
+	<SubTexture name="velma lose retry0012" x="2845" y="644" width="569" height="644" frameX="0" frameY="-30" frameWidth="586" frameHeight="674"/>
+	<SubTexture name="velma lose retry0013" x="2845" y="644" width="569" height="644" frameX="0" frameY="-30" frameWidth="586" frameHeight="674"/>
+	<SubTexture name="velma lose retry0014" x="2886" y="0" width="572" height="644" frameX="0" frameY="-30" frameWidth="586" frameHeight="674"/>
+	<SubTexture name="velma lose retry0015" x="2886" y="0" width="572" height="644" frameX="0" frameY="-30" frameWidth="586" frameHeight="674"/>
+	<SubTexture name="velma lose retry0016" x="2309" y="0" width="577" height="644" frameX="0" frameY="-30" frameWidth="586" frameHeight="674"/>
+	<SubTexture name="velma lose retry0017" x="1731" y="0" width="578" height="644" frameX="0" frameY="-30" frameWidth="586" frameHeight="674"/>
+	<SubTexture name="velma lose retry0018" x="1151" y="0" width="580" height="644" frameX="0" frameY="-30" frameWidth="586" frameHeight="674"/>
+	<SubTexture name="velma lose retry0019" x="569" y="0" width="582" height="644" frameX="0" frameY="-30" frameWidth="586" frameHeight="674"/>
+	<SubTexture name="velma lose retry0020" x="2845" y="2480" width="569" height="605" frameX="0" frameY="-30" frameWidth="569" frameHeight="605"/>
+	<SubTexture name="velma lose retry0021" x="2845" y="2480" width="569" height="605" frameX="0" frameY="-30" frameWidth="569" frameHeight="605"/>
+	<SubTexture name="velma lose retry0022" x="569" y="3123" width="569" height="605" frameX="0" frameY="-30" frameWidth="586" frameHeight="674"/>
+	<SubTexture name="velma lose retry0023" x="2845" y="2480" width="569" height="605" frameX="0" frameY="-30" frameWidth="569" frameHeight="605"/>
+	<SubTexture name="velma lose retry0024" x="2845" y="2480" width="569" height="605" frameX="0" frameY="-30" frameWidth="569" frameHeight="605"/>
+	<SubTexture name="velma lose retry0025" x="2845" y="2480" width="569" height="605" frameX="0" frameY="-30" frameWidth="569" frameHeight="605"/>
+	<SubTexture name="velma lose retry0026" x="2845" y="2480" width="569" height="605" frameX="0" frameY="-30" frameWidth="569" frameHeight="605"/>
+	<SubTexture name="velma lose retry0027" x="2845" y="2480" width="569" height="605" frameX="0" frameY="-30" frameWidth="569" frameHeight="605"/>
+	<SubTexture name="velma lose retry0028" x="2845" y="2480" width="569" height="605" frameX="0" frameY="-30" frameWidth="569" frameHeight="605"/>
+	<SubTexture name="velma lose retry0029" x="2845" y="2480" width="569" height="605" frameX="0" frameY="-30" frameWidth="569" frameHeight="605"/>
+	<SubTexture name="velma lose retry0030" x="2845" y="2480" width="569" height="605" frameX="0" frameY="-30" frameWidth="569" frameHeight="605"/>
+	<SubTexture name="velma lose retry0031" x="2845" y="2480" width="569" height="605" frameX="0" frameY="-30" frameWidth="569" frameHeight="605"/>
+	<SubTexture name="velma lose retry0032" x="2845" y="2480" width="569" height="605" frameX="0" frameY="-30" frameWidth="569" frameHeight="605"/>
+	<SubTexture name="velma lose retry0033" x="2845" y="2480" width="569" height="605" frameX="0" frameY="-30" frameWidth="569" frameHeight="605"/>
+	<SubTexture name="velma lose start0000" x="3414" y="644" width="599" height="605" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0001" x="2878" y="1875" width="579" height="605" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0002" x="3457" y="1875" width="579" height="605" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0003" x="1707" y="1288" width="586" height="605" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0004" x="1707" y="1288" width="586" height="605" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0005" x="2293" y="1288" width="585" height="605" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0006" x="0" y="1301" width="569" height="605" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0007" x="0" y="1301" width="569" height="605" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0008" x="0" y="1301" width="569" height="605" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0009" x="0" y="1301" width="569" height="605" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0010" x="0" y="1301" width="569" height="605" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0011" x="0" y="1301" width="569" height="605" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0012" x="0" y="1301" width="569" height="605" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0013" x="0" y="1301" width="569" height="605" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0014" x="0" y="1301" width="569" height="605" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0015" x="1707" y="1893" width="569" height="605" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0016" x="1707" y="1893" width="569" height="605" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0017" x="1707" y="1893" width="569" height="605" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0018" x="2276" y="1893" width="569" height="605" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0019" x="2276" y="1893" width="569" height="605" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0020" x="0" y="1906" width="569" height="605" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0021" x="0" y="1906" width="569" height="605" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0022" x="0" y="1906" width="569" height="605" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0023" x="1138" y="1912" width="569" height="605" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0024" x="569" y="1913" width="569" height="605" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0025" x="3414" y="1249" width="569" height="626" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0026" x="1138" y="1288" width="569" height="624" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0027" x="0" y="674" width="569" height="627" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0028" x="569" y="1288" width="569" height="625" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0029" x="569" y="1288" width="569" height="625" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0030" x="569" y="1288" width="569" height="625" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0031" x="569" y="1288" width="569" height="625" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0032" x="569" y="1288" width="569" height="625" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0033" x="569" y="1288" width="569" height="625" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0034" x="569" y="1288" width="569" height="625" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0035" x="569" y="1288" width="569" height="625" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0036" x="569" y="1288" width="569" height="625" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0037" x="569" y="1288" width="569" height="625" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0038" x="569" y="1288" width="569" height="625" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0039" x="569" y="1288" width="569" height="625" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0040" x="569" y="1288" width="569" height="625" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0041" x="569" y="1288" width="569" height="625" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0042" x="569" y="1288" width="569" height="625" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0043" x="569" y="1288" width="569" height="625" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0044" x="569" y="1288" width="569" height="625" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0045" x="569" y="1288" width="569" height="625" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0046" x="569" y="1288" width="569" height="625" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0047" x="569" y="1288" width="569" height="625" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0048" x="569" y="1288" width="569" height="625" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0049" x="569" y="1288" width="569" height="625" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0050" x="569" y="1288" width="569" height="625" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0051" x="569" y="1288" width="569" height="625" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0052" x="569" y="1288" width="569" height="625" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0053" x="569" y="1288" width="569" height="625" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0054" x="569" y="1288" width="569" height="625" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0055" x="569" y="1288" width="569" height="625" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0056" x="569" y="1288" width="569" height="625" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0057" x="569" y="1288" width="569" height="625" frameX="0" frameY="0" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0058" x="0" y="0" width="0" height="0" frameX="-345" frameY="21" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0059" x="0" y="0" width="0" height="0" frameX="-345" frameY="21" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0060" x="0" y="0" width="0" height="0" frameX="-345" frameY="21" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0061" x="0" y="0" width="0" height="0" frameX="-345" frameY="21" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0062" x="0" y="0" width="0" height="0" frameX="-345" frameY="21" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0063" x="0" y="0" width="0" height="0" frameX="-345" frameY="21" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0064" x="0" y="0" width="0" height="0" frameX="-345" frameY="21" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0065" x="0" y="0" width="0" height="0" frameX="-345" frameY="21" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0066" x="0" y="0" width="0" height="0" frameX="-345" frameY="21" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0067" x="0" y="0" width="0" height="0" frameX="-345" frameY="21" frameWidth="599" frameHeight="627"/>
+	<SubTexture name="velma lose start0068" x="0" y="0" width="0" height="0" frameX="-345" frameY="21" frameWidth="599" frameHeight="627"/>
+</TextureAtlas>

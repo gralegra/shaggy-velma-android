@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hitboxhell.png">
+	<SubTexture name="left" x="0" y="0" width="98" height="720" frameX="0" frameY="0" frameWidth="98" frameHeight="720"/>
+	<SubTexture name="down" x="98" y="0" width="98" height="720" frameX="0" frameY="0" frameWidth="98" frameHeight="720"/>
+	<SubTexture name="up" x="196" y="0" width="98" height="720" frameX="0" frameY="0" frameWidth="98" frameHeight="720"/>
+	<SubTexture name="right" x="294" y="0" width="98" height="720" frameX="0" frameY="0" frameWidth="98" frameHeight="720"/>
+	<SubTexture name="down2" x="392" y="0" width="98" height="720" frameX="0" frameY="0" frameWidth="98" frameHeight="720"/>
+	<SubTexture name="left2" x="490" y="0" width="98" height="720" frameX="0" frameY="0" frameWidth="98" frameHeight="720"/>
+	<SubTexture name="space" x="588" y="0" width="98" height="720" frameX="0" frameY="0" frameWidth="98" frameHeight="720"/>
+	<SubTexture name="right2" x="686" y="0" width="98" height="720" frameX="0" frameY="0" frameWidth="98" frameHeight="720"/>
+	<SubTexture name="up2" x="784" y="0" width="98" height="720" frameX="0" frameY="0" frameWidth="98" frameHeight="720"/>
+	<SubTexture name="right3" x="882" y="0" width="98" height="720" frameX="0" frameY="0" frameWidth="98" frameHeight="720"/>
+	<SubTexture name="down3" x="980" y="0" width="98" height="720" frameX="0" frameY="0" frameWidth="98" frameHeight="720"/>
+	<SubTexture name="up3" x="1078" y="0" width="98" height="720" frameX="0" frameY="0" frameWidth="98" frameHeight="720"/>
+	<SubTexture name="right4" x="1176" y="0" width="98" height="720" frameX="0" frameY="0" frameWidth="98" frameHeight="720"/>
+</TextureAtlas>
