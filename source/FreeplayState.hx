@@ -165,6 +165,8 @@ class FreeplayState extends MusicBeatState
 			addWeek(['power-domain'], 1, ['dad', 'bf', 'gf']);
 			addWeek(['containment'], 1, ['dad', 'bf', 'gf']);
 			addWeek(['inferno'], 1, ['both', 'bf', 'gf']);
+			addWeek(['power-domainM'], 1, ['dad', 'bf', 'gf']);
+			addWeek(['power-domainW'], 1, ['dad', 'bf', 'gf']);
 
 		// LOAD MUSIC
 
